@@ -1,0 +1,18 @@
+
+
+
+
+
+     1)    *endWith () : Metnin belirli bir datayla bitip bitmedigini verir.
+         * Bize boolean dondurur.
+         * tek karakterde de, coklu karakterde de kullanilir
+
+
+     2)    *replace() : Metnin icindeki belirli bir datanin yerine verilen diger datayi yerlestirir
+         * Bize String bir data döndurur.
+         * tekli(char) karakterler ile de coklu String karakterler ile de calisir.
+          *ancak her iki tarafta da cift tirnak ya da tek tirnak kullanilmalidir.
+
+
+
+

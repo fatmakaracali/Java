@@ -1,0 +1,28 @@
+toUpperCase() :
+ i)Tum harfleri buyuk harfe cevirir.
+
+ ii) bize String return eder
+
+ toLowerCase() :
+
+ i)tum harfleri kucuk harf yapar.
+ ii)bize String return eser
+
+ charAt(0) :
+ i) bize Data'daki ilk karakteri dondurur.
+ ii) index ile calisir.
+
+
+ 4. lenght() :
+  i) bir datadaki karakter sayisini bize verir.
+  ii)int bir deger döndurur
+
+ 5) substring : Iki kullanimi vardir.
+   i) baslangic ve bitis indeksi verilirse baslangic indeksi dahil, bitis indeksi haric yazdirir.
+   Metnin ortasindan data almamizi saglar.
+   ii)( baslangic indeksi) Stringin verilen indeksten sonuna kadar alinmasini saglar.
+   Bu method bize String döndurur.
+
+  6) contains() : bir data var mi yok mu diye bakar
+                  Bize boolean bir deger dondurur.
+
